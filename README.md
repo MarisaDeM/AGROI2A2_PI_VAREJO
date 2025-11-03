@@ -24,16 +24,15 @@ O sistema é baseado em uma arquitetura de 6 camadas com 15 agentes autônomos, 
 
 ## Como Utilizar
 
-1.  Clone este repositório.
-2.  Abra o notebook `[Nome do seu notebook].ipynb` no Google Colab ou em um ambiente compatível com Jupyter.
-3.  Execute as células sequencialmente para:
+1.  Abra o notebook AGROI2A2_PI_VAREJO.ipynb` no Google Colab ou em um ambiente compatível com Jupyter.
+2.  Execute as células sequencialmente para:
     *   Instalar as dependências.
     *   Gerar arquivos XML simulados.
     *   Processar os XMLs e gerar DataFrames.
     *   Executar o sistema de agentes autônomos.
     *   Visualizar os resultados da análise e as recomendações.
     *   Testar a interação via Telegram simulada.
-4.  Explore as variáveis geradas, como `df_notas`, `df_itens`, `analysis_results` e o objeto `orchestrator` para interagir com o sistema.
+3.  Explore as variáveis geradas, como `df_notas`, `df_itens`, `analysis_results` e o objeto `orchestrator` para interagir com o sistema.
 
 ## Próximos Passos Sugeridos
 
